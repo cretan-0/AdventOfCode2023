@@ -1,4 +1,4 @@
-with open('input.txt', 'r') as file:
+with open('Day4_input.txt', 'r') as file:
     lines = file.readlines()
 
 def p1():
